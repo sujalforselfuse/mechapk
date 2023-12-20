@@ -1,0 +1,8 @@
+{
+    "appId": "io.ionic.mechbuddy",
+    "appName": "mechbuddy",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }

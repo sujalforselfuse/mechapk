@@ -1,0 +1,7 @@
+{
+    "name": "mechbuddy",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+}
